@@ -2,7 +2,7 @@
 Power BI HR Analytics Dashboard analyzing employee attrition &amp; demographics. Features key KPIs (total count, attrition rate, active staff, avg age) alongside visual breakdowns by department, education, age, gender, and job satisfaction. Designed to help HR teams identify retention risks and make data-driven workforce decisions.
 
 
-# 📊 HR Analytics Dashboard: Workforce Demographics & Attrition Insights
+#  HR Analytics Dashboard: Workforce Demographics & Attrition Insights
 
 ## 1. Project Title / Headline
 **People Analytics: Interactive HR Attrition & Workforce Satisfaction Dashboard**  
@@ -46,9 +46,11 @@ To provide an interactive, single-page executive overview that highlights high-r
 * **Department-wise Attrition:** Identifies that **R&D** accounts for the highest share of turnover (56.57%), followed by **Sales** (39.39%) and **HR** (4.04%).
 * **Job Satisfaction Heatmap:** Cross-tabulates satisfaction ratings (rated 1 to 4) across roles—highlighting lower satisfaction clusters in *Laboratory Technicians*, *Sales Executives*, and *Research Scientists*.
 * **Education Field Breakdown:** Measures attrition by academic background, showing highest attrition among employees with *Life Sciences* (37) and *Medical* (25)
-*
+degrees.
  ## 6. Screenshot
 Shows how the dashboard looks like.
 
-    degrees.
+Here : https://github.com/Deeksha0529/HR-Analysis-Dashboard/blob/main/Images.png
+
+  
 * **Demographics & Gender Analysis:** Segmented age bands (Under 25 to Over 55) showing gender distribution and age-wise attrition percentages to pinpoint career stage drop-offs.
