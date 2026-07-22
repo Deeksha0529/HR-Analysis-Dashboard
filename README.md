@@ -47,10 +47,14 @@ To provide an interactive, single-page executive overview that highlights high-r
 * **Job Satisfaction Heatmap:** Cross-tabulates satisfaction ratings (rated 1 to 4) across roles—highlighting lower satisfaction clusters in *Laboratory Technicians*, *Sales Executives*, and *Research Scientists*.
 * **Education Field Breakdown:** Measures attrition by academic background, showing highest attrition among employees with *Life Sciences* (37) and *Medical* (25)
 degrees.
+* **Demographics & Gender Analysis:** Segmented age bands (Under 25 to Over 55) showing gender distribution and age-wise attrition percentages to pinpoint career stage drop-offs.
+
+  ----
+  
  ## 6. Screenshot
 Shows how the dashboard looks like.
 
 Here : https://github.com/Deeksha0529/HR-Analysis-Dashboard/blob/main/Images.png
 
   
-* **Demographics & Gender Analysis:** Segmented age bands (Under 25 to Over 55) showing gender distribution and age-wise attrition percentages to pinpoint career stage drop-offs.
+
